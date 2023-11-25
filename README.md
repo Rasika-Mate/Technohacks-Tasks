@@ -1,0 +1,2 @@
+# Technohacks-Tasks
+Python
